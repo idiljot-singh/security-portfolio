@@ -36,7 +36,7 @@ Building a 5-phase CTI lifecycle (Planning → Collection → Analysis → Disse
 | 7 | [OSINT Infrastructure Reconnaissance](projects/07-osint-infrastructure-recon) | Passive DNS/certificate-transparency recon; identified a real DMARC misconfiguration |
 | 8 | [Social-Engineering Attack Simulation](projects/08-osint-social-engineering-capstone) | End-to-end OSINT → profiling → attack-plan → defense framework (names anonymized) |
 | 9 | [IoT & Data Analytics Projects](projects/09-iot-and-data-projects) | Sensor monitoring, real-time analytics, applied data pipelines |
-| 10 | [Specula: CVE Prioritisation](https://github.com/idiljot-singh/Specula) | Open-source CTI pipeline: every CVE ranked by KEV, EPSS and ATT&CK threat overlap into explainable Act/Attend/Track/Ignore tiers, with STIX 2.1 output ([live page](https://idiljot-singh.github.io/Specula/)) |
+| 10 | [Stenwatch: CVE Prioritisation](https://github.com/idiljot-singh/Stenwatch) | Open-source CTI pipeline: every CVE ranked by KEV, EPSS and ATT&CK threat overlap into explainable Act/Attend/Track/Ignore tiers, with STIX 2.1 output ([live page](https://idiljot-singh.github.io/Stenwatch/)) |
 
 ## Education
 
